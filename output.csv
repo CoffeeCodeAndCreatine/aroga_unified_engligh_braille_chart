@@ -1,0 +1,170 @@
+Family,Description,Character,cell 1,cell 2,cell 3,Readable Braille
+indicators,numeric,not applicable,"•  •● ●● ●",,, cell 1 contains dot 3 dot 4 dot 5 dot 6
+indicators,letter,not applicable,"•  ••  •• ●",,, cell 1 contains dot 6
+indicators,word,not applicable,"•  ••  •• ●","•  ••  •• ●",, cell 1 contains dot 6 cell 2 contains dot 6
+indicators,passage,not applicable,"•  ••  •• ●","•  ••  •• ●","•  ••  •• ●", cell 1 contains dot 6 cell 2 contains dot 6 cell 3 contains dot 6
+indicators,capital terminator,not applicable,"•  ••  •• ●","•  ••  •● •",, cell 1 contains dot 6 cell 2 contains dot 5
+indicators,symbol,not applicable,"•  ••  •● ●","•  ••  ••  •","•  ••  ••  •", cell 1 contains dot 5 dot 6 cell 2 contains cell 3 contains
+indicators,word,not applicable,"•  ••  •● ●","•  ••  •● ●",, cell 1 contains dot 5 dot 6 cell 2 contains dot 5 dot 6
+indicators,passage,not applicable,"•  ••  •● ●","•  ••  •● ●","•  ••  •● ●", cell 1 contains dot 5 dot 6 cell 2 contains dot 5 dot 6 cell 3 contains dot 5 dot 6
+indicators,Grade 1 terminator,not applicable,"•  ••  •● ●","•  •● ••  •",, cell 1 contains dot 5 dot 6 cell 2 contains dot 3
+indicators,italic symbol,not applicable,"•  •• ●• ●","• ●● ••  •",, cell 1 contains dot 4 dot 6 cell 2 contains dot 2 dot 3
+indicators,italic word,not applicable,"•  •• ●• ●","• ●•  ••  •",, cell 1 contains dot 4 dot 6 cell 2 contains dot 2
+indicators,italic passage,not applicable,"•  •• ●• ●","• ●● •● ●",, cell 1 contains dot 4 dot 6 cell 2 contains dot 2 dot 3 dot 5 dot 6
+indicators,italic terminator,not applicable,"•  •• ●• ●","•  •● ••  •",, cell 1 contains dot 4 dot 6 cell 2 contains dot 3
+indicators,bold symbol,not applicable,"•  •• ●● •","• ●● ••  •",, cell 1 contains dot 4 dot 5 cell 2 contains dot 2 dot 3
+indicators,bold word,not applicable,"•  •• ●● •","• ●•  ••  •",, cell 1 contains dot 4 dot 5 cell 2 contains dot 2
+indicators,bold passage,not applicable,"•  •• ●● •","• ●● •● ●",, cell 1 contains dot 4 dot 5 cell 2 contains dot 2 dot 3 dot 5 dot 6
+indicators,bold terminator,not applicable,"•  •• ●● •","•  •● ••  •",, cell 1 contains dot 4 dot 5 cell 2 contains dot 3
+indicators,underline symbol,not applicable,"•  •• ●● ●","• ●● ••  •",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 2 dot 3
+indicators,underline word,not applicable,"•  •• ●● ●","• ●•  ••  •",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 2
+indicators,underline passage,not applicable,"•  •• ●● ●","• ●● •● ●",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 2 dot 3 dot 5 dot 6
+indicators,underline terminator,not applicable,"•  •• ●● ●","•  •● ••  •",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 3
+indicators,script symbol,not applicable,"•  •• ●•  •","• ●● ••  •",, cell 1 contains dot 4 cell 2 contains dot 2 dot 3
+indicators,script word,not applicable,"•  •• ●•  •","• ●•  ••  •",, cell 1 contains dot 4 cell 2 contains dot 2
+indicators,script passage,not applicable,"•  •• ●•  •","• ●● •● ●","•  ••  ••  •", cell 1 contains dot 4 cell 2 contains dot 2 dot 3 dot 5 dot 6 cell 3 contains
+indicators,script terminator,not applicable,"•  •• ●•  •","•  •● ••  •",, cell 1 contains dot 4 cell 2 contains dot 3
+punctuation,comma,",","• ●•  ••  •",,, cell 1 contains dot 2
+punctuation,period,.,"• ●•  •● ●",,, cell 1 contains dot 2 dot 5 dot 6
+punctuation,apostrophe,‘,"•  •● ••  •",,, cell 1 contains dot 3
+punctuation,colon,:,"• ●• ●•  •",,, cell 1 contains dot 2 dot 4
+punctuation,dash,-,"•  ••  •• ●","•  •● •• ●",, cell 1 contains dot 6 cell 2 contains dot 3 dot 6
+punctuation,long dash,--,"•  ••  •● •","•  ••  •• ●","•  •● •• ●", cell 1 contains dot 5 cell 2 contains dot 6 cell 3 contains dot 3 dot 6
+punctuation,exclamation mark,!,"• ●● •● •",,, cell 1 contains dot 2 dot 3 dot 5
+punctuation,hyphen,-,"•  •● •• ●",,, cell 1 contains dot 3 dot 6
+punctuation,question mark,?,"• ●● •• ●",,, cell 1 contains dot 2 dot 3 dot 6
+punctuation,semicolon,;,"• ●● ••  •",,, cell 1 contains dot 2 dot 3
+punctuation,ellipsis,...,"• ●•  •● ●","• ●•  •● ●","• ●•  •● ●", cell 1 contains dot 2 dot 5 dot 6 cell 2 contains dot 2 dot 5 dot 6 cell 3 contains dot 2 dot 5 dot 6
+punctuation,forward slash,/,"•  •• ●● ●","•  •● ●•  •",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 3 dot 4
+punctuation,backward slash,\,"•  •• ●● ●","● ••  •• ●",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 1 dot 6
+punctuation,opening outer quotation mark,“,"• ●● •• ●",,, cell 1 contains dot 2 dot 3 dot 6
+punctuation,closing outer quotation mark,”,"•  •● •● ●",,, cell 1 contains dot 3 dot 5 dot 6
+punctuation,opening inner quotation mark ,‘,"•  ••  •• ●","• ●● •• ●",, cell 1 contains dot 6 cell 2 contains dot 2 dot 3 dot 6
+punctuation,closing inner quotation mark,’,"•  ••  •• ●","•  •● •● ●",, cell 1 contains dot 6 cell 2 contains dot 3 dot 5 dot 6
+Grouping Punctuation,opening round parenthesis,(,"•  ••  •● •","● ●•  •• ●",, cell 1 contains dot 5 cell 2 contains dot 1 dot 2 dot 6
+Grouping Punctuation,closing round parenthesis,),"•  ••  •● •","•  •● ●● •",, cell 1 contains dot 5 cell 2 contains dot 3 dot 4 dot 5
+Grouping Punctuation,opening square bracket,[,"•  •• ●• ●","● ●•  •• ●",, cell 1 contains dot 4 dot 6 cell 2 contains dot 1 dot 2 dot 6
+Grouping Punctuation,closing square bracket,],"•  •• ●• ●","•  •● ●● •",, cell 1 contains dot 4 dot 6 cell 2 contains dot 3 dot 4 dot 5
+Grouping Punctuation,opening curly bracket,{,"•  •• ●● ●","● ●•  •• ●",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 1 dot 2 dot 6
+Grouping Punctuation,closing curly bracket,},"•  •• ●● ●","•  •● ●● •",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 3 dot 4 dot 5
+Grouping Punctuation,opening angle bracket,<,"•  •• ●•  •","● ●•  •• ●",, cell 1 contains dot 4 cell 2 contains dot 1 dot 2 dot 6
+Grouping Punctuation,closing angle bracket,>,"•  •• ●•  •","•  •● ●● •",, cell 1 contains dot 4 cell 2 contains dot 3 dot 4 dot 5
+Signs Of Operation And Comparison,plus,+,"•  ••  •● •","• ●● •● •",, cell 1 contains dot 5 cell 2 contains dot 2 dot 3 dot 5
+Signs Of Operation And Comparison,minus,-,"•  ••  •● •","•  ••  •● ●",, cell 1 contains dot 5 cell 2 contains dot 5 dot 6
+Signs Of Operation And Comparison,multiplication,X,"•  ••  •● •","• ●● •• ●",, cell 1 contains dot 5 cell 2 contains dot 2 dot 3 dot 6
+Signs Of Operation And Comparison,multiplication dot,·,"•  ••  •● •","• ●•  •● ●",, cell 1 contains dot 5 cell 2 contains dot 2 dot 5 dot 6
+Signs Of Operation And Comparison,division,÷,"•  ••  •● •","•  •● ●•  •",, cell 1 contains dot 5 cell 2 contains dot 3 dot 4
+Signs Of Operation And Comparison,greater than,>,"•  •• ●•  •","•  •● ●● •",, cell 1 contains dot 4 cell 2 contains dot 3 dot 4 dot 5
+Signs Of Operation And Comparison,less than,<,"•  •• ●•  •","● ●•  •• ●",, cell 1 contains dot 4 cell 2 contains dot 1 dot 2 dot 6
+Signs Of Operation And Comparison,equals,=,"•  •• ●•  •","• ●● •● ●",, cell 1 contains dot 4 cell 2 contains dot 2 dot 3 dot 5 dot 6
+Currency And Measurement,cent,¢,"•  •• ●•  •","● •• ●•  •",, cell 1 contains dot 4 cell 2 contains dot 1 dot 4
+Currency And Measurement,dollar,$,"•  •• ●•  •","• ●● ●•  •",, cell 1 contains dot 4 cell 2 contains dot 2 dot 3 dot 4
+Currency And Measurement,euro,€,"•  •• ●•  •","● ••  •● •",, cell 1 contains dot 4 cell 2 contains dot 1 dot 5
+Currency And Measurement,British Pound,£,"•  •• ●•  •","● ●● ••  •",, cell 1 contains dot 4 cell 2 contains dot 1 dot 2 dot 3
+Currency And Measurement,feet,‘,"• ●● •● ●",,, cell 1 contains dot 2 dot 3 dot 5 dot 6
+Currency And Measurement,inches,“,"• ●● •● ●","• ●● •● ●",, cell 1 contains dot 2 dot 3 dot 5 dot 6 cell 2 contains dot 2 dot 3 dot 5 dot 6
+Special Symbols,percent,%,"•  •• ●• ●","•  •● •● ●",, cell 1 contains dot 4 dot 6 cell 2 contains dot 3 dot 5 dot 6
+Special Symbols,degree,°,"•  •• ●● •","• ●• ●● •",, cell 1 contains dot 4 dot 5 cell 2 contains dot 2 dot 4 dot 5
+Special Symbols,angle,⦣,"•  •• ●● ●","• ●• ●• ●",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 2 dot 4 dot 6
+Special Symbols,hashtag,#,"•  •• ●● ●","● •• ●● ●",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 1 dot 4 dot 5 dot 6
+Special Symbols,ampersand,&,"•  •• ●•  •","● ●● ●• ●",, cell 1 contains dot 4 cell 2 contains dot 1 dot 2 dot 3 dot 4 dot 6
+Special Symbols,copyright,©,"•  •• ●● •","● •• ●•  •",, cell 1 contains dot 4 dot 5 cell 2 contains dot 1 dot 4
+Special Symbols,trademark,™,"•  •• ●● •","• ●● ●● •",, cell 1 contains dot 4 dot 5 cell 2 contains dot 2 dot 3 dot 4 dot 5
+Special Symbols,superscript indicator,not applicable,"•  •● •● •",,, cell 1 contains dot 3 dot 5
+Special Symbols,subscript indicator,not applicable,"• ●•  •• ●",,, cell 1 contains dot 2 dot 6
+Special Symbols,bullet,·,"•  •• ●● ●","• ●•  •● ●",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 2 dot 5 dot 6
+Special Symbols,at sign ,@,"•  •• ●•  •","● ••  ••  •",, cell 1 contains dot 4 cell 2 contains dot 1
+Special Symbols,asterisk,*,"•  ••  •● •","•  •● •● •",, cell 1 contains dot 5 cell 2 contains dot 3 dot 5
+Special Symbols,dot locator for mention,not applicable,"•  •• ●• ●","● ●● ●● ●",, cell 1 contains dot 4 dot 6 cell 2 contains dot 1 dot 2 dot 3 dot 4 dot 5 dot 6
+Strong Groupsigns,ch,not applicable,"● ••  •• ●",,, cell 1 contains dot 1 dot 6
+Strong Groupsigns,sh,not applicable,"● •• ●• ●",,, cell 1 contains dot 1 dot 4 dot 6
+Strong Groupsigns,th,not applicable,"● •• ●● ●",,, cell 1 contains dot 1 dot 4 dot 5 dot 6
+Strong Groupsigns,wh,not applicable,"● ••  •● ●",,, cell 1 contains dot 1 dot 5 dot 6
+Strong Groupsigns,ou,not applicable,"● ●•  •● ●",,, cell 1 contains dot 1 dot 2 dot 5 dot 6
+Strong Groupsigns,st,not applicable,"•  •● ●•  •",,, cell 1 contains dot 3 dot 4
+Strong Groupsigns,gh,not applicable,"● ●•  •• ●",,, cell 1 contains dot 1 dot 2 dot 6
+Strong Groupsigns,ed,not applicable,"● ●• ●• ●",,, cell 1 contains dot 1 dot 2 dot 4 dot 6
+Strong Groupsigns,er,not applicable,"● ●• ●● ●",,, cell 1 contains dot 1 dot 2 dot 4 dot 5 dot 6
+Strong Groupsigns,ow,not applicable,"• ●• ●• ●",,, cell 1 contains dot 2 dot 4 dot 6
+Strong Groupsigns,ar,not applicable,"•  •● ●● •",,, cell 1 contains dot 3 dot 4 dot 5
+Strong Groupsigns,ing,not applicable,"•  •● ●• ●",,, cell 1 contains dot 3 dot 4 dot 6
+Lower Groupsigns,ea,not applicable,"• ●•  ••  •",,, cell 1 contains dot 2
+Lower Groupsigns,bb,not applicable,"• ●● ••  •",,, cell 1 contains dot 2 dot 3
+Lower Groupsigns,cc,not applicable,"• ●•  •● •",,, cell 1 contains dot 2 dot 5
+Lower Groupsigns,ff,not applicable,"• ●● •● •",,, cell 1 contains dot 2 dot 3 dot 5
+Lower Groupsigns,gg,not applicable,"• ●● •● ●",,, cell 1 contains dot 2 dot 3 dot 5 dot 6
+Strong Contractions (Part and Whole Word),be,not applicable,"• ●● ••  •",,, cell 1 contains dot 2 dot 3
+Strong Contractions (Part and Whole Word),con,not applicable,"• ●• ●•  •",,, cell 1 contains dot 2 dot 4
+Strong Contractions (Part and Whole Word),dis,not applicable,"• ●•  •● ●",,, cell 1 contains dot 2 dot 5 dot 6
+Strong Contractions (Part and Whole Word),en,not applicable,"• ●•  •• ●",,, cell 1 contains dot 2 dot 6
+Strong Contractions (Part and Whole Word),in,not applicable,"•  •● •● •",,, cell 1 contains dot 3 dot 5
+Lower Wordsigns,be,not applicable,"• ●● ••  •",,, cell 1 contains dot 2 dot 3
+Lower Wordsigns,enough,not applicable,"• ●•  •• ●",,, cell 1 contains dot 2 dot 6
+Lower Wordsigns,were,not applicable,"• ●● •● ●",,, cell 1 contains dot 2 dot 3 dot 5 dot 6
+Lower Wordsigns,his,not applicable,"• ●● •• ●",,, cell 1 contains dot 2 dot 3 dot 6
+Lower Wordsigns,in,not applicable,"•  •● •● •",,, cell 1 contains dot 3 dot 5
+Lower Wordsigns,was,not applicable,"•  •● •● ●",,, cell 1 contains dot 3 dot 5 dot 6
+Strong Wordsigns,child,not applicable,"● ••  •• ●",,, cell 1 contains dot 1 dot 6
+Strong Wordsigns,shall,not applicable,"● •• ●• ●",,, cell 1 contains dot 1 dot 4 dot 6
+Strong Wordsigns,this,not applicable,"● •• ●● ●",,, cell 1 contains dot 1 dot 4 dot 5 dot 6
+Strong Wordsigns,which,not applicable,"● ••  •● ●",,, cell 1 contains dot 1 dot 5 dot 6
+Strong Wordsigns,out,not applicable,"● ●•  •● ●",,, cell 1 contains dot 1 dot 2 dot 5 dot 6
+Strong Wordsigns,still,not applicable,"•  •● ●•  •",,, cell 1 contains dot 3 dot 4
+Strong Contractions (Part and Whole Word),and,not applicable,"● ●● ●• ●",,, cell 1 contains dot 1 dot 2 dot 3 dot 4 dot 6
+Strong Contractions (Part and Whole Word),for,not applicable,"● ●● ●● ●",,, cell 1 contains dot 1 dot 2 dot 3 dot 4 dot 5 dot 6
+Strong Contractions (Part and Whole Word),of,not applicable,"● ●● •● ●",,, cell 1 contains dot 1 dot 2 dot 3 dot 5 dot 6
+Strong Contractions (Part and Whole Word),the,not applicable,"• ●● ●• ●",,, cell 1 contains dot 2 dot 3 dot 4 dot 6
+Strong Contractions (Part and Whole Word),with,not applicable,"• ●● ●● ●",,, cell 1 contains dot 2 dot 3 dot 4 dot 5 dot 6
+Initial Letter Contractions,day,not applicable,"•  ••  •● •","● •• ●● •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 4 dot 5
+Initial Letter Contractions,ever,not applicable,"•  ••  •● •","● ••  •● •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 5
+Initial Letter Contractions,father,not applicable,"•  ••  •● •","● ●• ●•  •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 2 dot 4
+Initial Letter Contractions,here,not applicable,"•  ••  •● •","● ●•  •● •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 2 dot 5
+Initial Letter Contractions,know,not applicable,"•  ••  •● •","● •● ••  •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 3
+Initial Letter Contractions,lord,not applicable,"•  ••  •● •","● ●● ••  •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 2 dot 3
+Initial Letter Contractions,mother,not applicable,"•  ••  •● •","● •● ●•  •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 3 dot 4
+Initial Letter Contractions,name,not applicable,"•  ••  •● •","● •● ●•  •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 3 dot 4
+Initial Letter Contractions,one,not applicable,"•  ••  •● •","● •● •● •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 3 dot 5
+Initial Letter Contractions,part,not applicable,"•  ••  •● •","● ●● •● •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 2 dot 3 dot 5
+Initial Letter Contractions,question,not applicable,"•  ••  •● •","● ●● ●● •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 2 dot 3 dot 4 dot 5
+Initial Letter Contractions,right,not applicable,"•  ••  •● •","● ●● •● •",, cell 1 contains dot 5 cell 2 contains dot 1 dot 2 dot 3 dot 5
+Initial Letter Contractions,some,not applicable,"•  ••  •● •","• ●● ●•  •",, cell 1 contains dot 5 cell 2 contains dot 2 dot 3 dot 4
+Initial Letter Contractions,time,not applicable,"•  ••  •● •","• ●● ●● •",, cell 1 contains dot 5 cell 2 contains dot 2 dot 3 dot 4 dot 5
+Initial Letter Contractions,under,not applicable,"•  ••  •● •","● •● •• ●",, cell 1 contains dot 5 cell 2 contains dot 1 dot 3 dot 6
+Initial Letter Contractions,work,not applicable,"•  ••  •● •","• ●• ●● ●",, cell 1 contains dot 5 cell 2 contains dot 2 dot 4 dot 5 dot 6
+Initial Letter Contractions,young,not applicable,"•  ••  •● •","● •● ●● ●",, cell 1 contains dot 5 cell 2 contains dot 1 dot 3 dot 4 dot 5 dot 6
+Initial Letter Contractions,there,not applicable,"•  ••  •● •","• ●● ●• ●",, cell 1 contains dot 5 cell 2 contains dot 2 dot 3 dot 4 dot 6
+Initial Letter Contractions,character,not applicable,"•  ••  •● •","● ••  •• ●",, cell 1 contains dot 5 cell 2 contains dot 1 dot 6
+Initial Letter Contractions,through,not applicable,"•  ••  •● •","● •• ●● ●",, cell 1 contains dot 5 cell 2 contains dot 1 dot 4 dot 5 dot 6
+Initial Letter Contractions,where,not applicable,"•  ••  •● •","● ••  •● ●",, cell 1 contains dot 5 cell 2 contains dot 1 dot 5 dot 6
+Initial Letter Contractions,ought,not applicable,"•  ••  •● •","● ●•  •● ●",, cell 1 contains dot 5 cell 2 contains dot 1 dot 2 dot 5 dot 6
+Initial Letter Contractions,upon,not applicable,"•  •• ●● •","● •● •• ●",, cell 1 contains dot 4 dot 5 cell 2 contains dot 1 dot 3 dot 6
+Initial Letter Contractions,word,not applicable,"•  •• ●● •","• ●• ●● ●",, cell 1 contains dot 4 dot 5 cell 2 contains dot 2 dot 4 dot 5 dot 6
+Initial Letter Contractions,these,not applicable,"•  •• ●● •","• ●● ●• ●",, cell 1 contains dot 4 dot 5 cell 2 contains dot 2 dot 3 dot 4 dot 6
+Initial Letter Contractions,those,not applicable,"•  •• ●● •","● •• ●● ●",, cell 1 contains dot 4 dot 5 cell 2 contains dot 1 dot 4 dot 5 dot 6
+Initial Letter Contractions,whose,not applicable,"•  •• ●● •","● ••  •● ●",, cell 1 contains dot 4 dot 5 cell 2 contains dot 1 dot 5 dot 6
+Initial Letter Contractions,cannot,not applicable,"•  •• ●● ●","● •• ●•  •",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 1 dot 4
+Initial Letter Contractions,had,not applicable,"•  •• ●● ●","● ●• ●•  •",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 1 dot 2 dot 4
+Initial Letter Contractions,many,not applicable,"•  •• ●● ●","● •● ●•  •",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 1 dot 3 dot 4
+Initial Letter Contractions,spirit,not applicable,"● ●● ••  •","• ●● ●•  •",, cell 1 contains dot 1 dot 2 dot 3 cell 2 contains dot 2 dot 3 dot 4
+Initial Letter Contractions,world,not applicable,"•  •• ●● ●","• ●• ●● ●",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 2 dot 4 dot 5 dot 6
+Initial Letter Contractions,their,not applicable,"•  •• ●● ●","• ●● ●• ●",, cell 1 contains dot 4 dot 5 dot 6 cell 2 contains dot 2 dot 3 dot 4 dot 6
+Final Letter Group Signs,ound,not applicable,"•  •• ●• ●","● •• ●● •",, cell 1 contains dot 4 dot 6 cell 2 contains dot 1 dot 4 dot 5
+Final Letter Group Signs,ance,not applicable,"•  •• ●• ●","● •• ●● •",, cell 1 contains dot 4 dot 6 cell 2 contains dot 1 dot 4 dot 5
+Final Letter Group Signs,sion,not applicable,"•  •• ●• ●","● •● ●● •",, cell 1 contains dot 4 dot 6 cell 2 contains dot 1 dot 3 dot 4 dot 5
+Final Letter Group Signs,less,not applicable,"•  •• ●• ●","• ●● ●•  •",, cell 1 contains dot 4 dot 6 cell 2 contains dot 2 dot 3 dot 4
+Final Letter Group Signs,ount,not applicable,"•  •• ●• ●","• ●● ●● •",, cell 1 contains dot 4 dot 6 cell 2 contains dot 2 dot 3 dot 4 dot 5
+Final Letter Group Signs,ence,not applicable,"•  ••  •● ●","● ••  •● •",, cell 1 contains dot 5 dot 6 cell 2 contains dot 1 dot 5
+Final Letter Group Signs,ong,not applicable,"•  ••  •● ●","● ●• ●● •",, cell 1 contains dot 5 dot 6 cell 2 contains dot 1 dot 2 dot 4 dot 5
+Final Letter Group Signs,ful,not applicable,"•  ••  •● ●","● ●● ••  •",, cell 1 contains dot 5 dot 6 cell 2 contains dot 1 dot 2 dot 3
+Final Letter Group Signs,tion,not applicable,"•  ••  •● ●","● •● ●● •",, cell 1 contains dot 5 dot 6 cell 2 contains dot 1 dot 3 dot 4 dot 5
+Final Letter Group Signs,ness,not applicable,"•  ••  •● ●","• ●● ●•  •",, cell 1 contains dot 5 dot 6 cell 2 contains dot 2 dot 3 dot 4
+Final Letter Group Signs,ment,not applicable,"•  ••  •● ●","• ●● ●● •",, cell 1 contains dot 5 dot 6 cell 2 contains dot 2 dot 3 dot 4 dot 5
+Final Letter Group Signs,ity,not applicable,"•  ••  •● ●","● •● ●● ●",, cell 1 contains dot 5 dot 6 cell 2 contains dot 1 dot 3 dot 4 dot 5 dot 6
+Retired Contractions,ble,not applicable,"•  •● ●● ●",,, cell 1 contains dot 3 dot 4 dot 5 dot 6
+Retired Contractions,dd,not applicable,"• ●•  •● ●",,, cell 1 contains dot 2 dot 5 dot 6
+Retired Contractions,into,not applicable,"•  •● •● •","• ●● •● •",, cell 1 contains dot 3 dot 5 cell 2 contains dot 2 dot 3 dot 5
+Retired Contractions,ation,not applicable,"•  ••  •• ●","● •● ●● •",, cell 1 contains dot 6 cell 2 contains dot 1 dot 3 dot 4 dot 5
+Retired Contractions,com,not applicable,"•  •• ●• ●",,, cell 1 contains dot 4 dot 6
+Retired Contractions,by,not applicable,"•  •● ●● •",,, cell 1 contains dot 3 dot 4 dot 5
+Retired Contractions,ally,not applicable,"•  ••  •• ●","● •● ●● ●",, cell 1 contains dot 6 cell 2 contains dot 1 dot 3 dot 4 dot 5 dot 6
+Retired Contractions,to,not applicable,"• ●● •● •",,, cell 1 contains dot 2 dot 3 dot 5
